@@ -10,15 +10,15 @@ Below are the current technical papers and white papers available in this reposi
 
 #### English
 - **Technical White Paper on Enigm’s Security and Encryption**  
-   [Download PDF](whitepapers/enigm_whitepaper_en.pdf)
+   [Download PDF](white-paper/White_Paper-Enigm-EN.pdf)
 
 #### Español
 - **Libro Blanco Técnico sobre Seguridad y Cifrado en Enigm**  
-   [Descargar PDF](whitepapers/enigm_whitepaper_es.pdf)
+   [Descargar PDF](white-paper/White_Paper-Enigm-ES.pdf)
 
 #### Français
 - **Livre Blanc Technique sur la Sécurité et le Chiffrement d'Enigm**  
-   [Télécharger le PDF](whitepapers/enigm_whitepaper_fr.pdf)
+   [Télécharger le PDF](white-paper/White_Paper-Enigm-FR.pdf)
 
 ## Key Features of Enigm
 
