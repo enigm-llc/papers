@@ -1,7 +1,5 @@
 # Enigm - Technical Papers and Documentation
 
-![Enigm Logo] (https://enigm.io/asset/illustration/logo.svg) <!-- Logo opcional -->
-
 Welcome to the official repository for **Enigm**, a cutting-edge secure messaging and communication platform. This repository contains technical papers, white papers, and documentation that explore the security architecture, encryption protocols, and privacy principles of Enigm. As the project evolves, more papers and technical documents may be added to provide deeper insights into various aspects of the platform.
 
 ## Available Papers
