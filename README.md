@@ -47,8 +47,8 @@ The documents in this repository are intended solely for informational purposes.
 
 For permission requests, usage inquiries, or further information, please contact us:
 
-- **Email**: support@enigm.com
-- **Website**: [https://enigm.com](https://enigm.com)
+- **Email**: support@enigm.io
+- **Website**: [https://enigm.io](https://enigm.io)
 
 ---
 
